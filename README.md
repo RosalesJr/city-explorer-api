@@ -20,6 +20,8 @@
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 
+![WRRC Back-End](./img/Screenshot%20WRRC%20Back-end.png)
+
 Name of feature: WRRC
 
 Estimate of time needed to complete: _____
