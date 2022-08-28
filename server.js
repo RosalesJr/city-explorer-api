@@ -6,9 +6,8 @@ const express = require('express');
 const cors = require('cors');
 require('dotenv').config();
 const PORT = process.env.PORT || 3002;
-const axios = require('axios');
 const getForecast = require('./modules/weather');
-const getMovies = require('./modules/movie')
+const getMovies = require('./modules/movie');
 
 const app = express();
 app.use(cors());
@@ -25,7 +24,7 @@ app.get('*', (request, response) => {
   response.status(500).send('"error": "Something went wrong"');
 });
 
-app.use((error, request, response, next) => {
+app.use((error, request, response) => {
   response.status(500).send(error.message);
 });
 

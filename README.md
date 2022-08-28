@@ -23,6 +23,7 @@
 ![WRRC Back-End](./img/Screenshot%20WRRC%20Back-end.png)
 ![WRRC WITH API](./img/Screenshot%20WWRC%20with%20api.png)
 ![WRRC LAB09](./img/Screenshot%20WWRC%20lab09.png)
+![WRRC FOR LAB10](./img/Screenshot%20LAB10%20WRRC.png)
 Name of feature: WRRC
 
 Estimate of time needed to complete: _____
